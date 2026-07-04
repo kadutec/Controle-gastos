@@ -207,11 +207,3 @@ Essa estrutura foi escolhida por manter o projeto organizado e de fácil manuten
 A interface foi construída utilizando React, TypeScript e Bootstrap 5, priorizando simplicidade, responsividade e facilidade de utilização.
 
 ---
-
-# 👨‍💻 Autor
-
-Carlos Nogueira
-
-LinkedIn: *(adicione seu link)*
-
-GitHub: *(adicione seu link)*
