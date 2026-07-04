@@ -1,0 +1,22 @@
+# Backend
+Backend/bin/
+Backend/obj/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db

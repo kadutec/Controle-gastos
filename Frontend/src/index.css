@@ -1,0 +1,45 @@
+body{
+    background:#edf2f7;
+}
+
+.card{
+    border:none;
+    border-radius:12px;
+}
+
+.card-header{
+    font-weight:600;
+}
+
+.table td{
+    vertical-align:middle;
+}
+
+.btn{
+    border-radius:8px;
+}
+
+.form-control,
+.form-select{
+    border-radius:8px;
+}
+
+.summary-card{
+    border-radius:12px;
+    color:white;
+    padding:25px;
+    text-align:center;
+}
+
+.summary-card h5{
+    opacity:.8;
+}
+
+.summary-card h2{
+    font-size:32px;
+    margin-top:10px;
+}
+
+.shadow-sm{
+    box-shadow:0 4px 10px rgba(0,0,0,.08)!important;
+}
